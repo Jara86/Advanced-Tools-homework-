@@ -117,7 +117,7 @@ p {
     margin-left: auto;
     margin-right: auto;
   }
-  
+
   .container {
     display: flex;
     flex-direction: column;
@@ -125,9 +125,8 @@ p {
   }
 }
 
-  .about-paragraphs {
-    flex-direction: row;
-  }
+.about-paragraphs {
+  flex-direction: row;
 }
 
 @media (max-width: 500px) {
